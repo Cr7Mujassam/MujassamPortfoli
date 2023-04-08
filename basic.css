@@ -1,0 +1,29 @@
+body{
+    background-image: url(port.jpg);
+}
+
+.d1{
+    margin-top: 13%;
+    margin-left:4%;
+}
+
+#name{
+    color:rgb(58, 112, 94);
+}
+
+
+.about{
+    margin-top: 2%;
+    margin-left:4%;
+}
+
+
+.ml2 {
+    font-weight: 200;
+    color:Tomato;
+  }
+  
+  .ml2 text-danger .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
